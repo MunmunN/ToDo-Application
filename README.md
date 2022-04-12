@@ -1,4 +1,4 @@
 # ToDo-Application
 Using coding in HTML, CSS and JavaScript
-# Image of Project 2
+# Image of the Project
 ![Project Image](ToDoApp.JPG)
